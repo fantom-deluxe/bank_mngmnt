@@ -1,6 +1,6 @@
 # bank_mngmnt_system
 <br>
-A basic desktop application built using Python and Tkinter with MySQL backend to manage customer accounts. Features include account creation, deposit/withdrawal, transaction tracking, and CSV export(File Handling).
+A basic desktop application built using Python and Tkinter with MySQL backend to manage customer accounts. Features include account creation, deposit/withdrawal, transaction tracking, and CSV export(File Handling). <br>
 <br>
 
 __Technologies Used:__ <br> 
